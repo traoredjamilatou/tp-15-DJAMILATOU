@@ -1,0 +1,219 @@
+.A{
+    
+    background-color: rgb(128, 87, 6);
+    display: flex;
+    height: 60px;
+font-size: 20px;   
+}
+.navbar-toggler {
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+.B{
+    background-color: rgb(26, 41, 202);
+   height: 600px; 
+   /* font-size: 50px; */
+   color: rgb(94, 255, 0);
+   text-align: center;
+
+
+}
+.I{
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-between;
+    /* background-color: aqua; */
+    /* margin-left: 390px;
+    margin-right: 390px; */
+    
+    
+}
+.I h1{
+    margin-top: 200px;
+}
+.I h2{
+    margin-top: 208px;
+}
+.c{
+    position: relative;
+    /* top: 200px; */
+    font-size: 80px;
+     /*margin-right: 500px;*/ 
+    color: rgb(22, 13, 19);
+}
+.c strong{
+    color: bisque;
+    font-size: 100px;
+}
+.d{
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 100px;
+}
+.fe{
+    color: aqua;
+}
+.de{
+    font-size: 20px;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-right: 20px;
+   background-color: rgb(240, 190, 11);
+}
+.e{
+    font-size: 20px;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+   background-color: rgb(210, 15, 181);
+}
+.fe{
+    /* font-size: 30px; */
+    /* display: flex; */
+    text-align: center;
+}
+.fa{
+    text-align: center;
+    color: rgb(203, 75, 11);
+    font-size: 100px;
+}
+.sa{
+    text-align: center;
+    font-size: 20px;
+}
+.M{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.tu{
+    font-size: 150px;
+    color: aqua;
+}
+.ol{
+   padding-right: 50px;
+   text-align: center;
+}
+.rt{
+    font-size: 150px;
+    color: aqua;
+    margin-right: 50px;
+}
+.rt i{
+    padding-left: 50px;
+}
+.rt h5{
+    padding-left: 50px;
+} 
+
+.th{
+    font-size: 150px;
+    color: aqua;
+    margin-left: 50px;
+} 
+.jo{
+    background-size:   chartreuse;
+    color: chartreuse;
+}
+.tu i{
+    padding-left: 50px;
+}
+.ra{
+    font-size: 25px;
+    color: chocolate;
+}
+.oi{
+    justify-content: space-between;
+}
+.row img{
+    padding: 30px;
+}
+.esther{
+   background-color: rgb(198, 114, 12); 
+   height: 750px;
+}
+.bi-facebook{
+    color: darkblue;
+}
+.bi-twitter{
+    color: blue;
+}
+.bi-youtube{
+    color: red;
+}
+.mou{
+    font-size: 30px;
+}
+.papa{
+   text-align: center; 
+}
+.pa{
+  font-size: 40px;  
+}
+.gran{
+   font-size: 25px; 
+}
+.maman{
+    color: chocolate;
+    font-size: 40px;
+}
+.adama{
+    font-size: 50px;
+    color: antiquewhite;
+}
+.pap{
+    color: antiquewhite;
+    font-size: 30px;
+}
+.diva{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+
+
+
+
+    
+@media screen and (max-width: 300px){
+    .I{
+        /* font-size: 3px !important; */
+        
+        /* flex-flow: wrap; */
+        flex-direction: column;
+        margin: 0%;
+    }
+    .I h1{
+        margin-top: 0;
+    }
+    .I  h2{
+        margin-top: 0;
+    }
+    .fe{
+        flex-flow: wrap;
+        font-size: normal;
+    }
+        
+}
+    
+@media screen and (max-width: 300px){
+    .fa{
+    font-size: 50px;
+    }
+        
+}
+@media screen and (max-width: 300px){
+    .B{
+    /* font-size: 50px; */
+    }
+        
+}
+
+à
